@@ -1,0 +1,15 @@
+[03-Jul-2025 13:08:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'contact_campaign' in 'WHERE' in /home/technufj/mailburst.store/delete_contact.php:21
+Stack trace:
+#0 /home/technufj/mailburst.store/delete_contact.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/technufj/mailburst.store/delete_contact.php on line 21
+[03-Jul-2025 13:08:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'contact_campaign' in 'WHERE' in /home/technufj/mailburst.store/delete_contact.php:21
+Stack trace:
+#0 /home/technufj/mailburst.store/delete_contact.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/technufj/mailburst.store/delete_contact.php on line 21
+[03-Jul-2025 13:10:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'contact_campaign' in 'WHERE' in /home/technufj/mailburst.store/delete_contact.php:25
+Stack trace:
+#0 /home/technufj/mailburst.store/delete_contact.php(25): mysqli->prepare()
+#1 {main}
+  thrown in /home/technufj/mailburst.store/delete_contact.php on line 25
